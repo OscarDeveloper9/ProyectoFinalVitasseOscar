@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "nombre": "Laptop usada",
+    "precio": 300,
+    "imagen": "../assets/producto1.jpg"
+  },
+  {
+    "id": 2,
+    "nombre": "Celular usado",
+    "precio": 150,
+    "imagen": "../assets/producto2.jpg"
+  },
+  {
+    "id": 3,
+    "nombre": "Cámara digital",
+    "precio": 100,
+    "imagen": "../assets/producto3.jpg"
+  },
+  {
+    "id": 4,
+    "nombre": "Bicicleta urbana",
+    "precio": 80,
+    "imagen": "../assets/producto4.jpg"
+  }
+]
